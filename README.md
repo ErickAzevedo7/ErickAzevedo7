@@ -21,9 +21,6 @@ I'm a developer with interest in game and engine development.
   <img src="https://skillicons.dev/icons?i=cpp,c,cmake,visualstudio,unity,ts,js,react,nodejs,py,git,linux&perline=12" alt="C++, C, CMake, Visual Studio, Unity, TypeScript, JavaScript, React, Node.js, Python, Git, Linux">
 </p>
 
-### Languages I use most
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickAzevedo7&layout=compact&langs_count=6&hide_border=true" alt="Most used languages">
 
 <!--
 **ErickAzevedo7/ErickAzevedo7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
